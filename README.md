@@ -47,7 +47,6 @@ Each file is analyzed to create a network graph representing the connections bet
 ## Contact Information
 - Business inquiries: [cupidconsultingllc@gmail.com](mailto:cupidconsultingllc@gmail.com)
 - Personal inquiries: [shane.cupid@outlook.com](mailto:shane.cupid@outlook.com)
-- Phone: 413-461-5472
 - LinkedIn: [Shane Cupid](https://www.linkedin.com/in/shane-cupid-92a418b4/)
 
 ## License
